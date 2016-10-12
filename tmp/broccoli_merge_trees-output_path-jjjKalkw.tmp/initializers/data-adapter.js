@@ -1,0 +1,1 @@
+/Users/elifnazelo/GitHub/itp404-assignment5/tmp/broccoli_merge_trees-input_base_path-dgh9D9d4.tmp/3/initializers/data-adapter.js

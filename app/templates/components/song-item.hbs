@@ -1,0 +1,9 @@
+{{yield}}
+
+<div class="panel">
+    <h4>{{song.title}}</h4>
+    <p>{{#if isCheap}}$ {{else}}$${{/if}} {{song.price}}</p>
+    <p>
+    Play Count: {{song.playCount}} {{#if isPopular}} <img width="20" src="http://emojipedia-us.s3.amazonaws.com/cache/a5/3b/a53bddf69267e735b0c63d11dd8f96d1.png">{{/if}}
+    </p>
+</div>
